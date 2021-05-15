@@ -1,4 +1,4 @@
-# 🏗 Solana App Scaffold
+# 🏗 The Great Ape -  App Scaffold Fork team starting point for hackathon
 Scaffolding for a dapp built on Solana
 
 # Quickstart
